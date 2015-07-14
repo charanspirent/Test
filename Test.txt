@@ -1,1 +1,5 @@
 In master
+Make changes in master from branch 1
+Make changes in master from branch 1 after commit 2
+Make changes in master from branch 1 after commit 3
+Make changes in master from branch 1 after commit 4
