@@ -4,5 +4,5 @@ Make changes in master from branch 1 after commit 2
 Make changes in master from branch 1 after commit 3
 Make changes in master from branch 1 after commit 4
 Make changes in master from branch 1 after commit 5
-make changes for rebase 1
+make changes for rebase 1 b2 change
 make changes for rebase 2
