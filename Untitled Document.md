@@ -1,8 +1,8 @@
-Hypertext Transfer Protocol (HTTP/1.1)
-RFC Used:	 7231, 7230
-Tested against:	 Simple HTTP python server
+#Hypertext Transfer Protocol (HTTP/1.1)
+* RFC Used:	 7231, 7230
+* Tested against:	 Simple HTTP python server
 
-Required configuration
+##Required configuration
 
 1. Server IP (server_ip) - IP address of the target HTTP server
 2. Server Port (server_port) - Port number of the target HTTP server
