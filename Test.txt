@@ -1,4 +1,5 @@
 In master
+change-1 30/6/2016
 Make changes in master from branch 1
 Make changes in master from branch 1 after commit 2
 Make changes in master from branch 1 after commit 3
