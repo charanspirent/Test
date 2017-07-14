@@ -1,13 +1,14 @@
 In master
 change-1 30/6/2016
+test
 Make changes in master from branch 1
 Make changes in master from branch 1 after commit 2
 Make changes in master from branch 1 after commit 3
 Make changes in master from branch 1 after commit 4
 Make changes in master from branch 1 after commit 5
 make changes for rebase 1
-make changes for rebase 2
-b1
+make changes for rebase 3
+b2
 change
 bc2 change
 a2 changes
